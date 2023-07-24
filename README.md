@@ -44,6 +44,6 @@ Here are the placeholders for images related to the Universal Shift Register pro
 
 1. Image of Universal Shift Register Circuit: [![Universal Shift Register Circuit](https://rjeyakumar.files.wordpress.com/2016/02/usr.jpg?w=840)]
 
-2. Register Operation Truth Table: [![Register Operation Truth Table](https://www.electronicshub.org/wp-content/uploads/2015/06/table.jpg)]
+2. Register Operation Truth Table: ![Register Operation Truth Table (https://www.electronicshub.org/wp-content/uploads/2015/06/table.jpg)
 
 
